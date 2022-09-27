@@ -83,6 +83,7 @@ author_handles = {
     "Vivien Henry": "lukh",
     "Zawadniak Pedro": "PDR5",
     "Álan Crístoffer": "acristoffers",
+    "Jonas Kazem Andersen": "JKazem",
 }
 
 def get_author_log(since = None, until = None, handles = False, count = False):
